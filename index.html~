@@ -14,7 +14,7 @@
     <!--Multitemplate -->
     <div data-role="page" id="page">
       <div data-role="header">
-       <h2>App v.0</h2>
+       <h1>App v.0</h1>
     </div>
       <div role="main" class="ui-content">
       <p>El Contenido va aqui</p>
